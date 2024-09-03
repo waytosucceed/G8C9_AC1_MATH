@@ -1,0 +1,57 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "What is the least common multiple of 7 and 6?",
+        "options": [
+            "36",
+            "32",
+            "42",
+            "46"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q2",
+        "question": "What is the lowest common multiple of 6 and 12?",
+        "options": [
+            "20",
+            "24",
+            "18",
+            "12"
+        ],
+        "correct": 3
+    },
+    {
+        "questionNo": "Q3",
+        "question": "What is the lowest common multiple of 10 and 5?",
+        "options": [
+            "10",
+            "15",
+            "50",
+            "25"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q4",
+        "question": "What is the lowest common multiple of 3 and 7?",
+        "options": [
+            "24",
+            "21",
+            "27",
+            "15"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "What is the lowest common multiple of 10 and 7?",
+        "options": [
+            "17",
+            "70",
+            "10",
+            "27"
+        ],
+        "correct": 1
+    }
+]
